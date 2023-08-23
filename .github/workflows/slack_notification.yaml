@@ -1,4 +1,4 @@
-name: slack_otification
+name: slack_notification
 
 on:
   workflow_dispatch:
